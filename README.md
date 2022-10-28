@@ -14,3 +14,7 @@
 5. `git commit -m "コミットメッセージ"`でコミットする
 6. `git push origin main`でGitHubにプッシュする。
 
+## ブランチを作成する
+1. `git brandh develop`でブランチを作成
+2. `git switch develop`でdevelopブランチに移動
+3. `git branch`で現在のブランチを確認
